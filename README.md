@@ -16,6 +16,7 @@ track_expense(): Tracks a new expense by taking user input and saving it to the 
 display_expenses(): Displays all expenses stored in the expenses.csv file.
 display_summary(): Summarizes expenses by category.
 delete_all_expenses(): Deletes all recorded expenses after user confirmation
+
 ..............................................................................
 
 Telephone Directory
